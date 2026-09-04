@@ -35,6 +35,7 @@ The repository contains the following main files/folders:
 - `/database` - SQL database creation script
 - `/.github/workflows` - GitHub Actions CI/CD workflow
 - `README.md` - Project information and setup instructions
+- 
 
 ## Database Setup Instructions
 
